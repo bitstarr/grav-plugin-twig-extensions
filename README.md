@@ -1,6 +1,8 @@
 # Twig Extensions Plugin
 
-The **Twig Extensions** plugin is for [Grav CMS](http://github.com/getgrav/grav). It pulls in a subset of the official [Twig Extensions](https://github.com/twigphp/Twig-extensions)
+The **Twig Extensions** plugin is for [Grav CMS](http://github.com/getgrav/grav). It pulls in a subset of the official [Twig Extensions](https://github.com/twigphp/Twig-extensions) and adds some customizations.
+
+This is also the new home of the [abandoned plugin by Aaron Dalton](https://github.com/Perlkonig/grav-plugin-twig-extensions).
 
 ## Installation
 
