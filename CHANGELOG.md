@@ -1,3 +1,9 @@
+# v1.2.1
+##  2023-11-24
+1. [](#improved)
+   * You can now use custom formats for dates in `localizeddate` filter
+   * Enhanced Readme
+
 # v1.2.0
 ##  2022-10-17
 1. [](#new)
