@@ -53,6 +53,7 @@ function twig_localized_date_filter(Twig_Environment $env, $date, $dateFormat = 
     );
 
     $intDateFormat = $dateFormat;
+    $customDateFormat = null;
     if  ( !array_key_exists( $dateFormat, $formatValues ) )
     {
         $intDateFormat = 'none';
