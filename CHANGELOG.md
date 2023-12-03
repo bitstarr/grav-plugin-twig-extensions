@@ -1,3 +1,8 @@
+# v1.2.2
+##  2023-12-03
+1. [](#improved)
+   * Setting to enable the plugin for the admin interface as well
+
 # v1.2.1
 ##  2023-11-24
 1. [](#improved)

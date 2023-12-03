@@ -46,12 +46,12 @@ Below is the default configuration. An explanation of the various fields follows
 ```
 enabled: true
 modules: [array, intl, date]
-
+in_admin: false
 ```
 
 * The `enabled` field turns the plugin off and on.
-
 * The `modules` array tells the plugin which modules you want imported. This plugin only imports three of the five modules. These are the only valid options.
+* `in_admin` enables the use of the extensions in the Twig templates of the admin and for plugins hooking into it with custom admin templates.
 
 ## Usage
 
